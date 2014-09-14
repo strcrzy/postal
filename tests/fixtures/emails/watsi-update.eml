@@ -1,0 +1,481 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: jwb.public@gmail.com
+Received: by 10.112.63.168 with SMTP id h8csp1055611lbs;
+        Thu, 4 Sep 2014 09:03:40 -0700 (PDT)
+X-Received: by 10.50.108.103 with SMTP id hj7mr8432063igb.5.1409846620296;
+        Thu, 04 Sep 2014 09:03:40 -0700 (PDT)
+Return-Path: <bounce+ec28b7.9cd7-jwb.public=gmail.com@in.watsi.org>
+Received: from m68-15.mailgun.net (m68-15.mailgun.net. [166.78.68.15])
+        by mx.google.com with ESMTPS id d7si1936467igx.10.2014.09.04.09.03.39
+        for <jwb.public@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 04 Sep 2014 09:03:40 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce+ec28b7.9cd7-jwb.public=gmail.com@in.watsi.org designates 166.78.68.15 as permitted sender) client-ip=166.78.68.15;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce+ec28b7.9cd7-jwb.public=gmail.com@in.watsi.org designates 166.78.68.15 as permitted sender) smtp.mail=bounce+ec28b7.9cd7-jwb.public=gmail.com@in.watsi.org;
+       dkim=pass header.i=@in.watsi.org
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=in.watsi.org; q=dns/txt;
+ s=krs; t=1409846619; h=X-Feedback-Id: Date: From: To: Message-Id:
+ Subject: Mime-Version: Content-Type: Sender: Content-Transfer-Encoding;
+ bh=coNTPjOOZAta9fACb4pjKHUv0mVUD2+UwSqqF73GUMU=; b=HDAVZSEoaKsUtfIWJRs3vr7VpDSHzicrLogeL0iMOB0F3WJ76xCV6fO7asMVyhH7oOoE9wms
+ ShTp5lt2hLNw2kBXRql9cvT53lCruPaAdDSWlc8Hn5Np2J2t5h7EJYhUJCQyW55AnCnsostu
+ ueELtgullM2XGPctWWfxY+bs57w=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=in.watsi.org; s=krs; q=dns;
+ h=X-Feedback-Id: Date: From: To: Message-Id: Subject: Mime-Version:
+ Content-Type: Sender: Content-Transfer-Encoding;
+ b=hQA3/RnfOt2CbmQOjpK4XkBKdZvDvQkrhHv9YtwzLobELTr5KX5IdjGoEbG4viWQ2L7yLz
+ Cr9u4Pmwzbv/jHMh5kL3upvlpy16BO+FIW448LL8Lwjz/ZMdILNE1pqFO7DabdncjDsEj9Nd
+ BQgGEovc8qqx1laFmSet51c7TUo5w=
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=mailgun.org; q=dns/txt; s=mg;
+ t=1409846619; h=X-Feedback-Id: Date: From: To: Message-Id: Subject:
+ Mime-Version: Content-Type: Sender: Content-Transfer-Encoding;
+ bh=coNTPjOOZAta9fACb4pjKHUv0mVUD2+UwSqqF73GUMU=; b=Cv1GONtoF1ClINCF3TGmnDLinz91tvUAI5XZB8xzLFaqGkue1+y4p7QJNwNM89HVLI0jO8YS
+ dvO/DNJLub6BqOKpDH4mVNtbiif1sJGMB0egsMO/mfZFte0QqyjSyC4gCXsJDOUYdW72yk+A
+ KKPjFdeDz5Xl9G4iY1P4WAFbcJw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=mailgun.org; s=mg; q=dns;
+ h=X-Feedback-Id: Date: From: To: Message-Id: Subject: Mime-Version:
+ Content-Type: Sender: Content-Transfer-Encoding;
+ b=CHtysdxuomSyToU4B0I3Zjwc7GZ5OFDl/9IYOq94/Q/CNa9efqS6op95lvcBz0wU662Krl
+ +ZDafOzp+jpR1BhGrGIcPFm3S8h8VfRez2NvDio6g6mFy+IKExFw/4AaSHJVQClWpU09xrga
+ 9ibr0fKQc8HQVmXIHLfNVr5NfvgSc=
+X-Feedback-Id: 50e72b6afea3986c28000125:mailgun
+Received: from watsi.org (ec2-54-205-209-165.compute-1.amazonaws.com
+ [54.205.209.165]) by mxa.mailgun.org with ESMTP id
+ 54088d2a.7ff374738360-in2; Thu, 04 Sep 2014 16:02:50 -0000 (UTC)
+Date: Thu, 04 Sep 2014 16:02:50 +0000
+From: Watsi <connect@watsi.org>
+To: jamie brim <jwb.public@gmail.com>
+Message-Id: <54088d2a8f04b_23f9da3ab1bb840691@0be4bb63-f16c-434c-af9c-b994e4db4ce7.mail>
+Subject: Update on your donation to Maung Win
+Mime-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+X-Mailgun-Tag: update
+X-Mailgun-Campaign-Id: Update:3876
+X-Mailgun-Sid: WyIxMWRlNCIsICJqd2IucHVibGljQGdtYWlsLmNvbSIsICI5Y2Q3Il0=
+Sender: connect=watsi.org@in.watsi.org
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE=20HTML=20PUBLIC=20"-//W3C//DTD=20HTML=204.01=20Transitional//EN"=
+=20"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+=20=20<head>
+=20=20=20=20<meta=20http-equiv=3D"Content-Type"=20content=3D"text/html;=20c=
+harset=3Dutf-8">
+=20=20=20=20<title>Home</title>
+=20=20=20=20<style=20type=3D"text/css">
+=20=20=20=20=20=20=20=20.ReadMsgBody=20{width:=20100%;}
+=20=20=20=20=20=20=20=20.ExternalClass=20{width:=20100%;}
+=20=20=20=20=20=20=20=20table=20tr=20td=20{mso-line-height-rule:=20exactly;=
+}
+=20=20=20=20</style>
+=20=20</head>
+
+=20=20<body=20style=3D"margin:0=20auto;=20padding:0;">
+=20=20=20=20<table=20width=3D"100%"=20border=3D"0"=20cellspacing=3D"0"=20ce=
+llpadding=3D"0">
+=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20<td=20valign=3D"top"=20style=3D"background:#ededed;=
+">
+=20=20=20=20=20=20=20=20=20=20<table=20width=3D"602"=20border=3D"0"=20cells=
+pacing=3D"0"=20cellpadding=3D"0"=20align=3D"center"=20style=3D"margin-botto=
+m:=2050px;">
+=20=20=20=20=20=20=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20valign=3D"top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<table=20width=3D"602"=20bo=
+rder=3D"0"=20cellspacing=3D"0"=20cellpadding=3D"0">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20valign=3D=
+"top"=20=20height=3D"50"=20style=3D"font-size:1px;=20line-height:1px;=20bac=
+kground:#ededed"></td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20valign=3D=
+"top"=20align=3D"center"=20style=3D"=20color:#808080;=20font-family:Arial,=
+=20Helvetica,=20sans-serif;=20font-size:30px;=20font-weight:normal;=20backg=
+round:#ededed;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<a=20href=
+=3D"http://email.in.watsi.org/c/ZD05Y2Q3Jmk9NTQwODhkMmE4ZjA0Yl8yM2Y5ZGEzYWI=
+xYmI4NDA2OTElNDAwYmU0YmI2My1mMTZjLTQzNGMtYWY5Yy1iOTk0ZTRkYjRjZTcubWFpbCZoPW=
+JkYzNiZjdkNmM4MTJlOTBiZjk0MWZjMGNhZjYzMTQxJmw9aHR0cCUzQSUyRiUyRndhdHNpLm9yZ=
+yUyRiZyPWp3Yi5wdWJsaWMlNDBnbWFpbC5jb20mdD11cGRhdGU"><img=20src=3D"https://d=
+3w52z135jkm97.cloudfront.net/email-assets/new-logo.png"=20/></a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20valign=3D=
+"top"=20=20height=3D"20"=20style=3D"font-size:1px;=20line-height:1px;=20bac=
+kground:#ededed"></td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20style=3D"background:#dddddd=
+;=20padding:1px=200;"=20>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<table=20width=3D"600"=20bo=
+rder=3D"0"=20cellspacing=3D"0"=20cellpadding=3D"0"=20align=3D"center">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20valign=3D=
+"top"=20style=3D"background:#FFF;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<table=20=
+width=3D"600"=20border=3D"0"=20cellspacing=3D"0"=20cellpadding=3D"0">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr=
+>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20<td=20valign=3D"top"=20width=3D"600"=20height=3D"352"=20style=3D"font-si=
+ze:1px;"><a=20href=3D"http://email.in.watsi.org/c/ZD05Y2Q3Jmk9NTQwODhkMmE4Z=
+jA0Yl8yM2Y5ZGEzYWIxYmI4NDA2OTElNDAwYmU0YmI2My1mMTZjLTQzNGMtYWY5Yy1iOTk0ZTRk=
+YjRjZTcubWFpbCZoPTMzMDg4NzA0NmZmYTEyYTdiNWY3MDk0NDYwOWYxNmRkJmw9aHR0cCUzQSU=
+yRiUyRndhdHNpLm9yZyUyRnByb2ZpbGUlMkZhNzVkZTk5YjRkZTctbWF1bmctd2luJnI9andiLn=
+B1YmxpYyU0MGdtYWlsLmNvbSZ0PXVwZGF0ZQ"=20target=3D"_blank"><img=20src=3D"htt=
+ps://d3w52z135jkm97.cloudfront.net/uploads/update/image/3876/Maung_Win_-_up=
+date.jpg"=20alt=3D""=20width=3D"600"=20height=3D"352"=20align=3D"middle"></=
+a></td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</t=
+r>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr=
+>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20<td=20valign=3D"top"=20height=3D"36"></td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</t=
+r>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr=
+>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20<td=20valign=3D"top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20<table=20width=3D"600"=20border=3D"0"=20cellspacing=3D"0"=20cellpa=
+dding=3D"0">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20<td=20width=3D"25"></td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20<td=20valign=3D"top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20<table=20width=3D"100%"=20border=3D"0"=20c=
+ellspacing=3D"0"=20cellpadding=3D"0">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20valign=3D"top"=20align=
+=3D"center"=20style=3D"=20font-family:=20'Arial',=20Helvetica,=20sans-serif=
+;=20font-size:24px;=20font-weight:normal;=20color:#414042;=20padding-bottom=
+:13px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<p>Maung=20Win=E2=80=99s=
+=20medical=20treatment=20was=20a=20success!</p>
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20valign=3D"top"=20style=
+=3D"=20font-family:'Arial',=20Helvetica,=20sans-serif;=20font-size:14px;=20=
+font-weight:normal;=20color:#686868;=20padding-bottom:13px;=20line-height:2=
+4px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+<p><a=20href=3D"http://email.in.watsi.org/c/ZD05Y2Q3Jmk9NTQwODhkMmE4ZjA0Yl8=
+yM2Y5ZGEzYWIxYmI4NDA2OTElNDAwYmU0YmI2My1mMTZjLTQzNGMtYWY5Yy1iOTk0ZTRkYjRjZT=
+cubWFpbCZoPTMzMDg4NzA0NmZmYTEyYTdiNWY3MDk0NDYwOWYxNmRkJmw9aHR0cCUzQSUyRiUyR=
+ndhdHNpLm9yZyUyRnByb2ZpbGUlMkZhNzVkZTk5YjRkZTctbWF1bmctd2luJnI9andiLnB1Ymxp=
+YyU0MGdtYWlsLmNvbSZ0PXVwZGF0ZQ">Maung=20Win</a>,=20the=20young=20boy=20from=
+=20Burma=20whose=20medical=20care=20you=20funded=20on=20<a=20href=3D"http:/=
+/email.in.watsi.org/c/ZD05Y2Q3Jmk9NTQwODhkMmE4ZjA0Yl8yM2Y5ZGEzYWIxYmI4NDA2O=
+TElNDAwYmU0YmI2My1mMTZjLTQzNGMtYWY5Yy1iOTk0ZTRkYjRjZTcubWFpbCZoPWFlNWU5MDQw=
+YjQxYTZmNzNkMDU1NTgwOGRhMGM2MjQ3Jmw9aHR0cCUzQSUyRiUyRndhdHNpLm9yZyZyPWp3Yi5=
+wdWJsaWMlNDBnbWFpbC5jb20mdD11cGRhdGU">Watsi</a>,=20received=20a=20colostomy=
+=20to=20prevent=20infection=20in=20a=20burned=20area=20of=20his=20pelvis.</=
+p>
+
+<p>=E2=80=9CNow=20Maung=20Win=20has=20much=20more=20independence=20than=20b=
+efore=20his=20treatment,=20when=20he=20had=20to=20rely=20on=20either=20his=
+=20mother=20of=20farther=20for=20almost=20constant=20care,=E2=80=9D=20our=
+=20medical=20partner=20writes.=20</p>
+
+<p>=E2=80=9CI=20am=20very=20grateful=20for=20all=20the=20help=20that=20we=
+=20received=20for=20my=20son=E2=80=99s=20treatment;=20this=20has=20made=20m=
+e=20very=20happy,=E2=80=9D=20says=20Maung=20Win=E2=80=99s=20father.=20</p>
+
+<p>And=20Maung=20Win?=20=E2=80=9CHe=20is=20delighted=20now=20that=20his=20t=
+reatment=20has=20finished=20and=20now=20he=20will=20be=20able=20to=20have=
+=20a=20normal,=20playful=20life=20like=20other=20boys=20his=20age,=E2=80=9D=
+=20our=20partner=20tells=20us.=20=E2=80=9CHe=20adds=20that=20he=20is=20very=
+=20happy=20because=20now=20he=20can=20do=20whatever=20he=20wishes.=E2=80=9D=
+=20</p>
+
+<p>People=20helping=20people=20is=20a=20beautiful=20thing.=20Thank=20you=20=
+for=20spreading=20the=20health=20on=20Watsi!</p>
+
+<p>The=20Watsi=20Team=20</p>
+
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20</table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20<td=20width=3D"38"></td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20</table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</t=
+r>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr=
+>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20<td=20valign=3D"top"=20height=3D"39"></td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</t=
+r>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr=
+>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20<td=20valign=3D"top"=20style=3D"border-bottom:1px=20solid=20#dddddd;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</t=
+r>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr=
+>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20<td=20valign=3D"top"=20height=3D"32"></td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</t=
+r>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr=
+>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20<td=20valign=3D"top"=20style=3D"=20font-family:'Trebuchet=20MS',=20Arial=
+,=20Helvetica,=20sans-serif;=20font-size:24px;=20font-weight:normal;=20colo=
+r:#414042;=20padding-bottom:9px;=20line-height:24px;=20text-align:center">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20Meet=20the=20new=20patients=20on=20Watsi!
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</t=
+r>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr=
+>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20<td=20valign=3D"top"=20style=3D"=20font-family:'Trebuchet=20MS',=20Arial=
+,=20Helvetica,=20sans-serif;=20font-size:14px;=20font-weight:normal;=20colo=
+r:#959595;=20padding-bottom:15px;=20line-height:24px;=20text-align:center;=
+=20">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20100%=20of=20your=20donation=20directly=20funds=20medical=20treatme=
+nt.
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</t=
+r>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr=
+>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20<td=20valign=3D"top"=20width=3D"600"=20=20height=3D"47"=20align=3D"cente=
+r"=20style=3D"padding-bottom:28px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20<a=20href=3D"http://email.in.watsi.org/c/ZD05Y2Q3Jmk9NTQwODhkMmE4Z=
+jA0Yl8yM2Y5ZGEzYWIxYmI4NDA2OTElNDAwYmU0YmI2My1mMTZjLTQzNGMtYWY5Yy1iOTk0ZTRk=
+YjRjZTcubWFpbCZoPTlmNGY0ZTc0YjVjNDAxNDYyY2FiZTc3MWJiYmYwOGE1Jmw9aHR0cCUzQSU=
+yRiUyRndhdHNpLm9yZyUyRmZ1bmQtdHJlYXRtZW50cyZyPWp3Yi5wdWJsaWMlNDBnbWFpbC5jb2=
+0mdD11cGRhdGU"><img=20align=3D"middle"=20alt=3D"View-patients-button"=20hei=
+ght=3D"42"=20src=3D"https://d3w52z135jkm97.cloudfront.net/email-assets/view=
+-patients-button.png"=20width=3D"165"=20/></a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</t=
+r>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</table>
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20valign=3D"top"=20width=3D"6=
+00">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<table=20width=3D"602"=20bo=
+rder=3D"0"=20cellspacing=3D"0"=20cellpadding=3D"0">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20valign=3D=
+"top"=20align=3D"center"=20width=3D"602"=20height=3D"15"=20style=3D"line-he=
+ight:1px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<img=20al=
+t=3D"Footer-top"=20height=3D"15"=20src=3D"https://d3w52z135jkm97.cloudfront=
+.net/email-assets/footer-top.jpg"=20style=3D"display:block"=20width=3D"602"=
+=20/>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20valign=3D"top"=20width=3D"6=
+02"=20align=3D"center">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<table=20width=3D"100%"=20b=
+order=3D"0"=20cellspacing=3D"0"=20cellpadding=3D"0">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20valign=3D=
+"top"=20width=3D"42"=20height=3D"30"=20style=3D"font-size:1px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<img=20al=
+t=3D"Footer-left"=20height=3D"30"=20src=3D"https://d3w52z135jkm97.cloudfron=
+t.net/email-assets/footer-left.jpg"=20style=3D"display:block"=20width=3D"42=
+"=20/>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20valign=3D=
+"top"=20width=3D"525"=20style=3D"=20background:#f6f6f6">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<table=20=
+width=3D"525"=20border=3D"0"=20cellspacing=3D"0"=20cellpadding=3D"0">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr=
+>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20<td=20valign=3D"middle"=20width=3D"175"=20style=3D"=20font-family:'Trebu=
+chet=20MS',=20Arial,=20Helvetica,=20sans-serif;=20font-size:13px;=20font-we=
+ight:normal;=20color:#6f6f6f;=20text-align:left;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20<a=20href=3D"http://email.in.watsi.org/c/ZD05Y2Q3Jmk9NTQwODhkMmE4Z=
+jA0Yl8yM2Y5ZGEzYWIxYmI4NDA2OTElNDAwYmU0YmI2My1mMTZjLTQzNGMtYWY5Yy1iOTk0ZTRk=
+YjRjZTcubWFpbCZoPWJkYzNiZjdkNmM4MTJlOTBiZjk0MWZjMGNhZjYzMTQxJmw9aHR0cCUzQSU=
+yRiUyRndhdHNpLm9yZyUyRiZyPWp3Yi5wdWJsaWMlNDBnbWFpbC5jb20mdD11cGRhdGU"=20tar=
+get=20=3D=20"_blank"=20style=3D"color:#6f6f6f;=20text-decoration:none;">wat=
+si.org</a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20<td=20valign=3D"top"=20width=3D"167"></td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20<td=20valign=3D"top"=20width=3D"183">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20<table=20width=3D"100%"=20border=3D"0"=20cellspacing=3D"0"=20cellp=
+adding=3D"0">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20<td=20valign=3D"top"=20style=3D"font-size:1px;=20paddi=
+ng-right:19px;=20width:=2030px;">&nbsp;</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20<td=20valign=3D"top"=20style=3D"font-size:1px;=20paddi=
+ng-right:19px;=20width:=2030px;">&nbsp;</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20<td=20valign=3D"top"=20style=3D"font-size:1px;=20paddi=
+ng-right:19px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20<a=20href=3D"http://email.in.watsi.org/c/ZD05Y2Q=
+3Jmk9NTQwODhkMmE4ZjA0Yl8yM2Y5ZGEzYWIxYmI4NDA2OTElNDAwYmU0YmI2My1mMTZjLTQzNG=
+MtYWY5Yy1iOTk0ZTRkYjRjZTcubWFpbCZoPTdjYzE1OTRlYjkwMWQ1ZjI4OWViZTRmNWMxODczM=
+jAwJmw9aHR0cHMlM0ElMkYlMkZ3d3cuZmFjZWJvb2suY29tJTJGV2F0c2kub3JnJnI9andiLnB1=
+YmxpYyU0MGdtYWlsLmNvbSZ0PXVwZGF0ZQ"><img=20alt=3D"Social-facebook-icon"=20b=
+order=3D"0"=20height=3D"30"=20src=3D"https://d3w52z135jkm97.cloudfront.net/=
+email-assets/social-facebook-icon.png"=20style=3D"display:=20block"=20width=
+=3D"30"=20/></a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20<td=20valign=3D"top"=20style=3D"font-size:1px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20<a=20href=3D"http://email.in.watsi.org/c/ZD05Y2Q=
+3Jmk9NTQwODhkMmE4ZjA0Yl8yM2Y5ZGEzYWIxYmI4NDA2OTElNDAwYmU0YmI2My1mMTZjLTQzNG=
+MtYWY5Yy1iOTk0ZTRkYjRjZTcubWFpbCZoPTVhOTYyMzYzYjE2MzhiNjg5NTQ3MmViM2M5NWYzY=
+zBlJmw9aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRndhdHNpJnI9andiLnB1YmxpYyU0MGdt=
+YWlsLmNvbSZ0PXVwZGF0ZQ"><img=20alt=3D"Social-twitter-icon"=20border=3D"0"=
+=20height=3D"30"=20src=3D"https://d3w52z135jkm97.cloudfront.net/email-asset=
+s/social-twitter-icon.png"=20style=3D"display:=20block"=20width=3D"30"=20/>=
+</a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20<td>&nbsp;</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20</table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</t=
+r>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20valign=3D=
+"top"=20width=3D"35"=20height=3D"30"=20style=3D"font-size:1px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<img=20al=
+t=3D"Footer-right"=20height=3D"30"=20src=3D"https://d3w52z135jkm97.cloudfro=
+nt.net/email-assets/footer-right.jpg"=20style=3D"display:block"=20width=3D"=
+35"=20/>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20valign=3D"top"=20align=3D"c=
+enter"=20width=3D"602"=20height=3D"15"=20style=3D"line-height:1px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<img=20alt=3D"Footer-bottom=
+"=20height=3D"31"=20src=3D"https://d3w52z135jkm97.cloudfront.net/email-asse=
+ts/footer-bottom.jpg"=20style=3D"display:block"=20width=3D"602"=20/>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20</tr>
+=20=20=20=20=20=20=20=20=20=20</table>
+
+=20=20=20=20=20=20=20=20=20=20<table=20cellspacing=3D"0"=20cellpadding=3D"0=
+"=20style=3D"width:602px;margin:0=20auto;=20margin-top:=2025px;">
+=20=20=20=20=20=20=20=20=20=20=20=20<tbody>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20<tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<td=20style=3D"text-align:c=
+enter;vertical-align:top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<p=20style=3D"text-al=
+ign:center;margin:5px=200;font-family:'Helvetica=20Neue','Helvetica','Arial=
+';color:#777;font-size:11px;line-height:24px">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20Watsi,=20360=20=
+Langton=20St=20#200,=20San=20Francisco,=20CA=2094103
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</p>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<p=20style=3D"text-al=
+ign:center;margin:5px=200;font-family:'Helvetica=20Neue','Helvetica','Arial=
+';color:#777;font-size:11px;line-height:24px">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20<div>
+=20=20<a=20href=3D"http://email.in.watsi.org/c/ZD05Y2Q3Jmk9NTQwODhkMmE4ZjA0=
+Yl8yM2Y5ZGEzYWIxYmI4NDA2OTElNDAwYmU0YmI2My1mMTZjLTQzNGMtYWY5Yy1iOTk0ZTRkYjR=
+jZTcubWFpbCZoPTg5NjFjNzA5ZTUzYWMxNmIwOTRhMTg4YTJiYzYxMTNjJmw9aHR0cCUzQSUyRi=
+UyRndhdHNpLm9yZyUyRnVuc3Vic2NyaWJlJTJGYzAxNzkwZTItYjA1Zi00NTYxLTk5Y2MtMzg3Y=
+zg5MDY0N2IyJnI9andiLnB1YmxpYyU0MGdtYWlsLmNvbSZ0PXVwZGF0ZQ"=20style=3D"text-=
+align:center;margin:5px=200;font-family:&#x27;Helvetica=20Neue&#x27;,&#x27;=
+Helvetica&#x27;,&#x27;Arial&#x27;;color:#777;font-size:11px;line-height:24p=
+x">Unsubscribe=20from=20these=20updates</a>
+=20=20<span=20style=3D"text-align:center;margin:5px=200;font-family:&#x27;H=
+elvetica=20Neue&#x27;,&#x27;Helvetica&#x27;,&#x27;Arial&#x27;;color:#777;fo=
+nt-size:11px;line-height:24px">|</span>
+=20=20<a=20href=3D"http://email.in.watsi.org/c/ZD05Y2Q3Jmk9NTQwODhkMmE4ZjA0=
+Yl8yM2Y5ZGEzYWIxYmI4NDA2OTElNDAwYmU0YmI2My1mMTZjLTQzNGMtYWY5Yy1iOTk0ZTRkYjR=
+jZTcubWFpbCZoPTgzMjMzMGZmNWYwNmJlZmZlMTIwMTkyMTRkMDM0YzNhJmw9aHR0cCUzQSUyRi=
+UyRndhdHNpLm9yZyUyRnVuc3Vic2NyaWJlJTJGYzAxNzkwZTItYjA1Zi00NTYxLTk5Y2MtMzg3Y=
+zg5MDY0N2IyJTJGZ2xvYmFsbHkmcj1qd2IucHVibGljJTQwZ21haWwuY29tJnQ9dXBkYXRl"=20=
+style=3D"text-align:center;margin:5px=200;font-family:&#x27;Helvetica=20Neu=
+e&#x27;,&#x27;Helvetica&#x27;,&#x27;Arial&#x27;;color:#777;font-size:11px;l=
+ine-height:24px">Unsubscribe=20from=20all=20emails</a>
+</div>
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</p>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20</tbody>
+=20=20=20=20=20=20=20=20=20=20</table>
+=20=20=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20=20=20</tr>
+=20=20=20=20=20=20</table>
+=20=20=20=20=20=20=20=20</td>
+=20=20=20=20=20=20</tr>
+=20=20=20=20</table>
+=20=20<img=20width=3D"1px"=20height=3D"1px"=20alt=3D""=20src=3D"http://emai=
+l.in.watsi.org/o/ZD05Y2Q3Jmk9NTQwODhkMmE4ZjA0Yl8yM2Y5ZGEzYWIxYmI4NDA2OTElND=
+AwYmU0YmI2My1mMTZjLTQzNGMtYWY5Yy1iOTk0ZTRkYjRjZTcubWFpbCZoPTRmNWI3ZjEzYzEwM=
+DhlZGM2MTI4OWFjNjM2NTliMGRkJnI9andiLnB1YmxpYyU0MGdtYWlsLmNvbSZ0PXVwZGF0ZQ">=
+</body>
+</html>
