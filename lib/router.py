@@ -12,8 +12,8 @@ class Router():
     them against routes it knows about, in order, passing the message to the
     first matching receiver.
     """
-    def __init__(self, routes=[]):
-        self.routes = routes
+    def __init__(self):
+        self.routes = []
 
     def add_route(self, predicate, receiver):
         self.routes.append(Route(predicate, receiver))
@@ -28,12 +28,12 @@ class Router():
         """
         if func is not None:
             if options:
-                if len(options) is 1:
-                    field = options.keys()[0].replace('_', '')
-                    self.add_route(RegexPredicate(field, options[field]), func)
+                predicates = [RegexPredicate(field.replace('_', ''), regex)
+                              for field, regex in options.iteritems()]
+                if len(predicates) is 1:
+                    field = options.keys()[0]
+                    self.add_route(predicates[0], func)
                 else:
-                    predicates = [RegexPredicate(field.replace('_', ''), regex)
-                                  for field, regex in options.iteritems()]
                     self.add_route(AndPredicate(predicates), func)
             else:
                 self.add_route(DefaultPredicate(), func)
@@ -65,7 +65,6 @@ class Route():
 
     def attempt(self, msg):
         if self.predicate.evaluate(msg):
-            print("attempting")
             self.receiver(msg, **msg.matches)
             return True
         else:
@@ -81,7 +80,7 @@ class RegexPredicate():
         match = re.match(self.regex, msg[self.field.capitalize()])
         print("matching %s against %s" % (self.regex, msg[self.field.capitalize()]))
         if match:
-            print("matched")
+            print("matched: %s" % match.groupdict())
             matches = msg.__dict__.get('matches', {})
             matches.update(match.groupdict())
             msg.matches = matches
